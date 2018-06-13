@@ -29,3 +29,13 @@
 &nbsp; :arrow_right: Fetching data and presenting it in the same container reduces re-usability. <br />
 &nbsp; :arrow_right: Usually doesn’t have any DOM markup of its own except for some wrapping divs, and never should have any styles. <br />
 &nbsp; :arrow_right: Tends to serve as data sources. <br />
+
+## :hash: Presentational/Dumb Component:
+&nbsp; :arrow_right: Concerned with how things look. <br />
+&nbsp; :arrow_right: Takes care of only rendering concern. <br />
+&nbsp; :arrow_right: Works as a simple JS function. <br />
+&nbsp; :arrow_right: Reusable, testable. <br />
+&nbsp; :arrow_right: Follows single responsibility principle. <br />
+&nbsp; :arrow_right: Has no dependencies on the rest of the app. <br />
+&nbsp; :arrow_right: Receive data and callbacks exclusively via props. <br />
+&nbsp; :arrow_right: Don’t specify how the data is loaded or mutated. <br />
