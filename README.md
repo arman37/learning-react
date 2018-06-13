@@ -39,3 +39,6 @@
 &nbsp; :arrow_right: Has no dependencies on the rest of the app. <br />
 &nbsp; :arrow_right: Receive data and callbacks exclusively via props. <br />
 &nbsp; :arrow_right: Don’t specify how the data is loaded or mutated. <br />
+
+## :hash: Component Lifecycle:
+![lifecycle](/images/component-lifecycle.jpeg)
