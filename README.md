@@ -3,8 +3,7 @@
 
 ##### Arman Bhuiyan <kbd>[Github](https://github.com/arman37) / [LinkedIn](https://www.linkedin.com/in/arman-bhuiyan) / [Facebook](https://www.facebook.com/arman.it37) / [Site](http://armanbhuiyan.com) /  [E-Mail](mailto:arman.it37@gmail.com)</kbd>
 
-# learning-react
-
+# Learning React
 
 [ <br />
 &nbsp; :diamond_shape_with_a_dot_inside: Component Driven Development <br />
@@ -22,3 +21,11 @@
 &nbsp; :diamond_shape_with_a_dot_inside: Reduce Coupling <br />
 &nbsp; :diamond_shape_with_a_dot_inside: Increase Cohesion <br />
 ]
+
+## :hash: Container/Smart Component:
+&nbsp; :diamond_shape_with_a_dot_inside: Concerned with how things work. <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Takes care of  data fetching and state changing concerns. <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Renders its corresponding sub-component. <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Fetching data and presenting it in the same container reduces re-usability. <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Usually doesn’t have any DOM markup of its own except for some wrapping divs, and never should have any styles. <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Tends to serve as data sources. <br />
