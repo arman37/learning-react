@@ -45,4 +45,16 @@
 
 
 ## :hash: References:
-&nbsp; :link: [componentDidMakeSense — React Component Lifecycle Explanation](https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459) <br />
+&nbsp; :link: [React philosophy](https://reallifeprogramming.com/react-philosophy-e8cdea991599) [read] <br />
+&nbsp; :link: [The Minimal React + Webpack 4 + Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup) [read] <br />
+&nbsp; :link: [componentDidMakeSense — React Component Lifecycle Explanation](https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459) [read] <br />
+&nbsp; :link: [Presentational and Container Components - Dan Abramov](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) [read] <br />
+&nbsp; :link: [How to Structure Components in React](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546) [read] <br />
+&nbsp; :link: [The React Philosophy](http://nayaabkhan.me/react/the-react-philosophy) [read] <br />
+&nbsp; :link: [Handling State in React: Four Immutable Approaches to Consider](https://medium.freecodecamp.org/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5)<br/>
+&nbsp; :link: [How to Organize a Large React App and Make It Scale](https://react.statuscode.com/link/34475/e61f1ec611) [read] <br />
+&nbsp; :link: [React State vs. Redux State: When and Why?](https://react.statuscode.com/link/34483/e61f1ec611) [read] <br />
+&nbsp; :link: [Why ReactJS is so popular?](https://www.quora.com/Why-is-ReactJS-is-so-popular) [read] <br />
+&nbsp; :link: [Yes, React is taking over the front-end development. The question is why?](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) <br />
+&nbsp; :link: [How to Greatly Improve Your React App's Performance](https://react.statuscode.com/link/34485/e61f1ec611) [read] <br />
+&nbsp; :link: [React Bits: A Compilation of React Patterns and Tips](https://react.statuscode.com/link/34486/e61f1ec611) [read] <br />
