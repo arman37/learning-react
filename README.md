@@ -42,3 +42,7 @@
 
 ## :hash: Component Lifecycle:
 ![lifecycle](/images/component-lifecycle.jpeg)
+
+
+## :hash: References:
+&nbsp; :link: [componentDidMakeSense — React Component Lifecycle Explanation](https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459) <br />
