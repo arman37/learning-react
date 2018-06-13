@@ -4,3 +4,21 @@
 ##### Arman Bhuiyan <kbd>[Github](https://github.com/arman37) / [LinkedIn](https://www.linkedin.com/in/arman-bhuiyan) / [Facebook](https://www.facebook.com/arman.it37) / [Site](http://armanbhuiyan.com) /  [E-Mail](mailto:arman.it37@gmail.com)</kbd>
 
 # learning-react
+
+
+[ <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Component Driven Development <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Functional Components <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Declarative API <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Composable <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Reactive Updates <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Virtual Dom <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Simplicity <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Modular <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Unidirectional/One Directional Data Flow <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Explicit App State <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Separation Of Concerns <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Server-side Rendering(SSR) <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Reduce Coupling <br />
+&nbsp; :diamond_shape_with_a_dot_inside: Increase Cohesion <br />
+]
