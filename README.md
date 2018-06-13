@@ -23,9 +23,9 @@
 ]
 
 ## :hash: Container/Smart Component:
-&nbsp; :diamond_shape_with_a_dot_inside: Concerned with how things work. <br />
-&nbsp; :diamond_shape_with_a_dot_inside: Takes care of  data fetching and state changing concerns. <br />
-&nbsp; :diamond_shape_with_a_dot_inside: Renders its corresponding sub-component. <br />
-&nbsp; :diamond_shape_with_a_dot_inside: Fetching data and presenting it in the same container reduces re-usability. <br />
-&nbsp; :diamond_shape_with_a_dot_inside: Usually doesn’t have any DOM markup of its own except for some wrapping divs, and never should have any styles. <br />
-&nbsp; :diamond_shape_with_a_dot_inside: Tends to serve as data sources. <br />
+&nbsp; :arrow_right: Concerned with how things work. <br />
+&nbsp; :arrow_right: Takes care of  data fetching and state changing concerns. <br />
+&nbsp; :arrow_right: Renders its corresponding sub-component. <br />
+&nbsp; :arrow_right: Fetching data and presenting it in the same container reduces re-usability. <br />
+&nbsp; :arrow_right: Usually doesn’t have any DOM markup of its own except for some wrapping divs, and never should have any styles. <br />
+&nbsp; :arrow_right: Tends to serve as data sources. <br />
