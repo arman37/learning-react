@@ -58,3 +58,6 @@
 &nbsp; :link: [Yes, React is taking over the front-end development. The question is why?](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) <br />
 &nbsp; :link: [How to Greatly Improve Your React App's Performance](https://react.statuscode.com/link/34485/e61f1ec611) [read] <br />
 &nbsp; :link: [React Bits: A Compilation of React Patterns and Tips](https://react.statuscode.com/link/34486/e61f1ec611) [read] <br />
+
+### Contributing
+If you like the project, shoot a :star2: and feel free to fork & send PR.
