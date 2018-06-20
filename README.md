@@ -61,3 +61,7 @@
 
 ### Contributing
 If you like the project, shoot a :star2: and feel free to fork & send PR.
+
+### License
+
+[MIT licensed](./LICENSE)
