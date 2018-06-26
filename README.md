@@ -23,29 +23,22 @@
 ]
 
 ## :hash: Why React:
-:arrow_right: ReactJS allows developers to break down the complex UI into simpler components and reuse the codes to complete their projects faster. <br />
-:arrow_right: React is very a simple and lightweight library that only deals with the view layer. <br />
-:arrow_right: React provides such a beautiful declarative API which enables developers to declaratively describe their User Interfaces and model the state of those interfaces. <br />
-:arrow_right: React is just JavaScript. When writing code in ReactJS we don’t have to do that much react-ish things at all. There is a very small API to learn, just a few functions and how to use them. <br />
-:arrow_right: It is quite un-opinionated, so we are free to choose the tools and technologies we prefer to use with it. <br />
-:arrow_right: React has Unidirectional/One directional data flow, so data changes is more predictable and easy to debug. <br />
-:arrow_right: React components can be easily reused. <br />
+:arrow_right: React allows developers to break down the complex UI into **simpler components** and reuse the codes to complete their projects faster. <br />
+:arrow_right: React is very a **simple** and **lightweight** library that only deals with the **view layer**. <br />
+:arrow_right: React provides such a beautiful **declarative API** which enables developers to declaratively describe their User Interfaces and model the state of those interfaces. <br />
+:arrow_right: React is just JavaScript. When writing code in React we don’t have to do that much react-ish things at all. There is a very small API to learn, just a few functions and how to use them. <br />
+:arrow_right: It is quite **un-opinionated**, so we are free to choose the tools and technologies we prefer to use with it. <br />
+:arrow_right: React has **Unidirectional**/**One directional** data flow, so data changes is more predictable and easy to debug. <br />
+:arrow_right: React components can easily be **reused**. <br />
 :arrow_right: Components can easily get unit-tested so by definition we can deliver well-structured, more safe and robust code. <br />
-:arrow_right: With React we can reduce coupling and increase cohesion. <br />
+:arrow_right: With React we can **reduce coupling** and **increase cohesion**. <br />
 :arrow_right: Components are the future of web development. <br />
 :arrow_right: React is SEO-friendly. <br />
-:arrow_right: React support server side rendering (SSR). <br />
-:arrow_right: React uses Virtual DOM that makes the app really fast. <br />
+:arrow_right: React support server side rendering (**SSR**). <br />
+:arrow_right: React uses **Virtual DOM** that makes the app really fast. <br />
 :arrow_right: React is Fast when it comes to displaying a big amount of components. <br />
 :arrow_right: Debugging is getting much easy with specialized Chrome extension. <br />
 :arrow_right: React is maintained by Facebook and Instagram but also has a great open-source community. The brains behind Facebook are maintaining this project. <br />
-:arrow_right: <br />
-:arrow_right: <br />
-:arrow_right: <br />
-:arrow_right: <br />
-:arrow_right: <br />
-:arrow_right: <br />
-:arrow_right: <br />
 
 ## :hash: Container/Smart Component:
 &nbsp; :arrow_right: Concerned with how things work. <br />
