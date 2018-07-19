@@ -92,6 +92,12 @@
 &nbsp; :arrow_right: If a component ends up growing, it should be broken into smaller subcomponents. <br />
 &nbsp; :arrow_right: Analyse the project's wireframes and layout when designing component hierarchy. <br />
 
+## :hash: Immutability:
+&nbsp; :arrow_right: Never manipulate `this.state` directly. <br />
+&nbsp; :arrow_right: Instead of changing an object, replace it. <br />
+&nbsp; :arrow_right: Neither the array's non-destructive methods nor `Object.assign` make deep copies. <br />
+&nbsp; :arrow_right: React's add-on package provides an immutability helper called `**update**`. <br />
+
 ## :hash: References:
 &nbsp; :link: [React philosophy](https://reallifeprogramming.com/react-philosophy-e8cdea991599) [read] <br />
 &nbsp; :link: [The Minimal React + Webpack 4 + Babel Setup](https://www.robinwieruch.de/minimal-react-webpack-babel-setup) [read] <br />
