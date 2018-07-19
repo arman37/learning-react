@@ -49,6 +49,14 @@
 &nbsp; :arrow_right: Reacts components are written in plain JavaScript. <br />
 &nbsp; :arrow_right: In React app 'Virtual DOM' is an in-memory, lighweight representation of the real DOM. <br />
 
+## :hash: States:
+&nbsp; :arrow_right: State is a plain JavaScript object which is managed within the component.<br />
+&nbsp; :arrow_right: Reacts components can have mutable data inside `this.state`. <br />
+&nbsp; :arrow_right: `this.state` is private to the component and can be changed by calling `this.setState()` method. <br />
+&nbsp; :arrow_right: When the state is updated, the component triggers the reactive rendering, and the component itself and its children will be re-rendered. <br />
+&nbsp; :arrow_right: Calls to `this.setState` are asynchronous. This ensures, for example, that if both Parent and Child call setState during a click event, Child isn’t  re-rendered twice.<br />
+&nbsp; :arrow_right: `setState` calls are batched, Pass an updater function instead of an object if you need to compute values based on the current state.<br />
+
 ## :hash: Container/Smart Component:
 &nbsp; :arrow_right: Concerned with how things work. <br />
 &nbsp; :arrow_right: Takes care of  data fetching and state changing concerns. <br />
