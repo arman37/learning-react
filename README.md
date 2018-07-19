@@ -46,12 +46,12 @@
 &nbsp; :arrow_right: In React app everything is made of **components**. Components are **self contained**, **concern-speific** building blocks(easy to reuse, extend & maintain). <br />
 &nbsp; :arrow_right: A React component is simply a JavaScript class with a render method that returns a description of the components UI.<br />
 &nbsp; :arrow_right: React components lead to a **separation of concerns** not technologies. <br />
-&nbsp; :arrow_right: React's components are written in plain JavaScript. <br />
+&nbsp; :arrow_right: React's components are written in plain JavaScript. <br />
 &nbsp; :arrow_right: In React app 'Virtual DOM' is an in-memory, lighweight representation of the real DOM. <br />
 
 ## :hash: States:
 &nbsp; :arrow_right: State is a plain JavaScript object which is managed within the component (similar to variables declared within a function).<br />
-&nbsp; :arrow_right: React's components can have mutable data inside `this.state`. <br />
+&nbsp; :arrow_right: React's components can have mutable data inside `this.state`. <br />
 &nbsp; :arrow_right: `this.state` is private to the component and can be changed by calling `this.setState()` method. <br />
 &nbsp; :arrow_right: When the state is updated, the component triggers the reactive rendering, and the component itself and its children will be re-rendered. <br />
 &nbsp; :arrow_right: Calls to `this.setState` are asynchronous. This ensures, for example, that if both Parent and Child call `setState` during a click event, Child isn’t  re-rendered twice.<br />
@@ -86,6 +86,11 @@
 ## :hash: Component Lifecycle:
 ![lifecycle](/images/component-lifecycle.jpeg)
 
+## :hash: Defining Component Hierarchy:
+&nbsp; :arrow_right: Components should be small & have a **single concern**. <br />
+&nbsp; :arrow_right: A component should ideally only do one thing well. <br />
+&nbsp; :arrow_right: If a component ends up growing, it should be broken into smaller subcomponents. <br />
+&nbsp; :arrow_right: Analyse the project's wireframes and layout when designing component hierarchy. <br />
 
 ## :hash: References:
 &nbsp; :link: [React philosophy](https://reallifeprogramming.com/react-philosophy-e8cdea991599) [read] <br />
