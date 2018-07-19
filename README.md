@@ -40,6 +40,15 @@
 * Debugging is getting much easy with specialized Chrome extension. <br />
 * React is maintained by Facebook and Instagram but also has a great open-source community. The brains behind Facebook are maintaining this project. <br />
 
+## :hash: Basics:
+&nbsp; :arrow_right: React works like a **Javascript engine for UI rendering**(like other Javascript engines used for game development). <br />
+&nbsp; :arrow_right: React is used for **composable user interface** using JS & XML. <br />
+&nbsp; :arrow_right: In React app everything is made of **components**. Components are **self contained**, **concern-speific** building blocks(easy to reuse, extend & maintain). <br />
+&nbsp; :arrow_right: A React component is simply a JavaScript class with a render method that returns a description of the components UI.<br />
+&nbsp; :arrow_right: React components lead to a **separation of concerns** not technologies. <br />
+&nbsp; :arrow_right: Reacts components are written in plain JavaScript. <br />
+&nbsp; :arrow_right: In React app 'Virtual DOM' is an in-memory, lighweight representation of the real DOM. <br />
+
 ## :hash: Container/Smart Component:
 &nbsp; :arrow_right: Concerned with how things work. <br />
 &nbsp; :arrow_right: Takes care of  data fetching and state changing concerns. <br />
