@@ -44,18 +44,26 @@
 &nbsp; :arrow_right: React works like a **Javascript engine for UI rendering**(like other Javascript engines used for game development). <br />
 &nbsp; :arrow_right: React is used for **composable user interface** using JS & XML. <br />
 &nbsp; :arrow_right: In React app everything is made of **components**. Components are **self contained**, **concern-speific** building blocks(easy to reuse, extend & maintain). <br />
-&nbsp; :arrow_right: A React component is simply a JavaScript class with a render method that returns a description of the components UI.<br />
+&nbsp; :arrow_right: A React component is simply a JavaScript class with a render method that returns a description of the components UI.<br />
 &nbsp; :arrow_right: React components lead to a **separation of concerns** not technologies. <br />
-&nbsp; :arrow_right: Reacts components are written in plain JavaScript. <br />
+&nbsp; :arrow_right: React's components are written in plain JavaScript. <br />
 &nbsp; :arrow_right: In React app 'Virtual DOM' is an in-memory, lighweight representation of the real DOM. <br />
 
 ## :hash: States:
-&nbsp; :arrow_right: State is a plain JavaScript object which is managed within the component.<br />
-&nbsp; :arrow_right: Reacts components can have mutable data inside `this.state`. <br />
+&nbsp; :arrow_right: State is a plain JavaScript object which is managed within the component (similar to variables declared within a function).<br />
+&nbsp; :arrow_right: React's components can have mutable data inside `this.state`. <br />
 &nbsp; :arrow_right: `this.state` is private to the component and can be changed by calling `this.setState()` method. <br />
 &nbsp; :arrow_right: When the state is updated, the component triggers the reactive rendering, and the component itself and its children will be re-rendered. <br />
-&nbsp; :arrow_right: Calls to `this.setState` are asynchronous. This ensures, for example, that if both Parent and Child call setState during a click event, Child isn’t  re-rendered twice.<br />
+&nbsp; :arrow_right: Calls to `this.setState` are asynchronous. This ensures, for example, that if both Parent and Child call `setState` during a click event, Child isn’t  re-rendered twice.<br />
 &nbsp; :arrow_right: `setState` calls are batched, Pass an updater function instead of an object if you need to compute values based on the current state.<br />
+
+## :hash: Props:
+&nbsp; :arrow_right: Props are plain JavaScript objects which get passed to the component (similar to function parameters). <br />
+&nbsp; :arrow_right: Props plays as an key factor in data flow from parent to child components. <br />
+&nbsp; :arrow_right: Props are passed and owned by the parent component. <br />
+&nbsp; :arrow_right: props can't be changed from inside the child component. <br />
+&nbsp; :arrow_right: props are provided as tag attributes much like in HTML. <br />
+&nbsp; :arrow_right: props are received by the component and are **immutable**. <br />
 
 ## :hash: Container/Smart Component:
 &nbsp; :arrow_right: Concerned with how things work. <br />
